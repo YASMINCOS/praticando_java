@@ -1,0 +1,12 @@
+import java.awt.Color;
+import java.awt.Rectangle;
+
+@SuppressWarnings("serial")
+public class RectObj extends Rectangle {
+
+	public Color color;
+	
+	public RectObj(int x , int y, int width, int height) {
+		super(x,y,width,height);
+	}
+}

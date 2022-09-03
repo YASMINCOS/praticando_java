@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\tiyas\Documents\Dev\Jogo\.metadata\.plugins\org.eclipse.jdt.core
+2038277092.index
+1865797976.index
+2204926899.index
+3818532959.index

@@ -1,0 +1,10 @@
+import java.awt.Rectangle;
+
+@SuppressWarnings("serial")
+public class RectObj extends Rectangle {
+
+	
+	public RectObj(int x , int y, int width, int height) {
+		
+	}
+}

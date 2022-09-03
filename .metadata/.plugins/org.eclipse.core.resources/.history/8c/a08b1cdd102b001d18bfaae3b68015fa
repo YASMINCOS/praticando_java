@@ -1,0 +1,9 @@
+import java.awt.Rectangle;
+
+public class RectObj extends Rectangle {
+
+	
+	public RectObj() {
+		
+	}
+}

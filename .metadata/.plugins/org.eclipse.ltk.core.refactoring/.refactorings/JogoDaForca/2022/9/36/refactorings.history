@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;softblue.jogoforca&apos; to &apos;jogo.jogodaforca&apos;&#x0D;&#x0A;- Original project: &apos;JogoDaForca&apos;&#x0D;&#x0A;- Original element: &apos;JogoDaForca/src/softblue.jogoforca&apos;&#x0D;&#x0A;- Renamed element: &apos;JogoDaForca/src/jogo.jogodaforca&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;softblue.jogoforca&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;softblue.jogoforca" name="jogo.jogodaforca" qualified="false" references="true" stamp="1662224731331" textual="false" version="1.0"/>
+</session>

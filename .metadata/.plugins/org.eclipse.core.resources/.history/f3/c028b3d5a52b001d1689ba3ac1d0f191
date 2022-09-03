@@ -1,0 +1,5 @@
+package jogo.jogodavelhaacao;
+
+public interface GerenciadorPontuacao {
+
+}
